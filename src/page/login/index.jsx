@@ -15,9 +15,9 @@ export default function Login() {
   return (
     <div>
 
-        <h1>Login</h1>
+        <h1>Login :D</h1>
 
-        <button onClick={ handleLogin } >Login</button>
+        <button onClick={ handleLogin }>Login Dave</button>
 
     </div>
   )
